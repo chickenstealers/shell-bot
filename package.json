@@ -9,6 +9,9 @@
     "terminal",
     "botgram"
   ],
+  "engines": {
+    "node": "12.x"
+  },
   "description": "Shellrunner Telegram bot",
   "homepage": "https://github.com/botgram/shell-bot",
   "dependencies": {
